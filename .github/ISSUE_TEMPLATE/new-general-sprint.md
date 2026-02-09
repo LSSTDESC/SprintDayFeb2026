@@ -15,8 +15,8 @@ Contacts:
 Time: [Morning/Afternoon/All day]
 Main communication channel:
 GitHub repo:
-In-person/Virtual/Hybrid:
-Zoom room (if applicable):
+
+Zoom breakout room corresponding to the issue number will be used.
 
 ## Goals and deliverable
 
